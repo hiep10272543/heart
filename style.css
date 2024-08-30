@@ -24,7 +24,7 @@ body {
   margin: auto;
   height: 500px;
   width: 500px;
-  animation: animate 1.2s infinite;
+  animation: animate 0.5s infinite;
 }
 
 #pinkboard:before,
